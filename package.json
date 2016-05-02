@@ -1,0 +1,23 @@
+{
+  "name": "newspaper-theme",
+  "version": "1.0.0",
+  "description": "This is a custom-built WordPress Theme intended to demonstrate my WordPress and front end skills while also helping my learn along the way.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nateconley/newspaper-theme.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nateconley/newspaper-theme/issues"
+  },
+  "homepage": "https://github.com/nateconley/newspaper-theme#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}
