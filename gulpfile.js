@@ -10,7 +10,7 @@ gulp.task('sass', function(){
 });
 
 gulp.task('watch', ['sass'], function(){
-	gulp.watch('dev/style.sass', ['sass']);
+	gulp.watch('dev/*.sass', ['sass']);
 });
 
 gulp.task('default', ['watch'], function(){
